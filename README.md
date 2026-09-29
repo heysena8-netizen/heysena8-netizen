@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sena.yondemli@basedata.com.tr"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
-<a href="https://portaliva.com"><img src="https://img.shields.io/badge/Portaliva-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portaliva"/></a>
+<img src="https://img.shields.io/badge/Portaliva-F97316?style=for-the-badge" alt="Portaliva"/>
 <img src="https://komarev.com/ghpvc/?username=heysena8-netizen&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=f97316&style=for-the-badge" alt="Profil Görüntülenme"/>
 
 </div>
@@ -207,7 +207,7 @@ Celery + Beat ile zamanlanmış görevler, FastAPI / Flask ile ayrı servisler, 
 </tr>
 </table>
 
-<p align="center"><sub>🔒 Kurumsal ve kapalı kaynak bir üründür · 🌐 <a href="https://portaliva.com">portaliva.com</a></sub></p>
+<p align="center"><sub>🔒 Kurumsal ve kapalı kaynak bir üründür</sub></p>
 
 <br>
 
