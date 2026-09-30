@@ -1,257 +1,108 @@
-<!-- ÜST ŞERİT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,100:c2410c&height=200&section=header&text=Sena%20Y%C3%B6ndemli&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Basedata%20%E2%80%A2%20Portaliva&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Sena Yöndemli"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer"></picture>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1800&color=F97316&center=true&vCenter=true&width=760&lines=Vergi+ve+Denetim+Teknolojileri+Geli%C5%9Ftiriyorum;Karma%C5%9F%C4%B1k+Mevzuat+%E2%86%92+Anla%C5%9F%C4%B1l%C4%B1r+Ekranlar;Python+%26+React+ile+U%C3%A7tan+Uca+%C3%87%C3%B6z%C3%BCmler;Veriyi+Anlaml%C4%B1+Kararlara+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Typing SVG"/>
-
-<a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sena.yondemli@basedata.com.tr"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
-<img src="https://img.shields.io/badge/Portaliva-F97316?style=for-the-badge" alt="Portaliva"/>
-<img src="https://komarev.com/ghpvc/?username=heysena8-netizen&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=f97316&style=for-the-badge" alt="Profil Görüntülenme"/>
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:sena.yondemli@basedata.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" alt="E-posta"></picture></a>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portaliva-dark.svg"><img src="assets/btn-portaliva-light.svg" alt="Portaliva"></picture>
+</p>
 
 <br>
 
-<h2>👩‍💻 Hakkımda</h2>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-01-dark.svg"><img src="assets/section-01-light.svg" width="100%" alt="Hakkımda"></picture>
 
-<p><b>Basedata</b>'da, yeminli mali müşavirlerin denetim işlerini dijitalleştiren <b>Portaliva</b> platformunu uçtan uca geliştiriyorum.
-Karmaşık mevzuatı ve dağınık veriyi <b>tek ekranda anlaşılır</b> hale getirmeyi seviyorum.</p>
+<p><b>Basedata</b>'da, yeminli mali müşavirlerin denetim işlerini dijitalleştiren <b>Portaliva</b> platformunu uçtan uca geliştiriyorum. Karmaşık mevzuatı ve dağınık veriyi <b>tek ekranda anlaşılır</b> hale getirmeyi seviyorum.</p>
 
 <ul>
-<li>🧾 &nbsp;Beyanname, e-fatura ve e-defterleri <b>denetime hazır veriye</b> dönüştürüyorum</li>
-<li>🎨 &nbsp;Arayüzün kullanıcıyı yormaması ve bilginin <b>tek bakışta</b> anlaşılması önceliğim</li>
-<li>🔐 &nbsp;Güvenlik, yetkilendirme ve izlenebilirliğe özellikle önem veriyorum</li>
-<li>🤖 &nbsp;Veriyi dışarı çıkarmadan çalışan <b>yerel yapay zekâ</b> çözümleri kuruyorum</li>
-<li>🌍 &nbsp;Türkçe · İngilizce</li>
+<li>Beyanname, e-fatura ve e-defterleri <b>denetime hazır veriye</b> dönüştürüyorum</li>
+<li>Arayüzün kullanıcıyı yormaması ve bilginin <b>tek bakışta</b> anlaşılması önceliğim</li>
+<li>Güvenlik, yetkilendirme ve izlenebilirliğe özellikle önem veriyorum</li>
+<li>Veriyi dışarı çıkarmadan çalışan <b>yerel yapay zekâ</b> çözümleri kuruyorum</li>
+<li>Türkçe · İngilizce</li>
 </ul>
 
-<h2>🛠️ Teknoloji Yığınım</h2>
-
-<div align="center">
-
-<b>Diller & Frontend</b>
 <br>
-<img src="https://skillicons.dev/icons?i=py,js,html,css,bash,powershell,react,materialui,styledcomponents,nodejs,npm&perline=11" alt="Diller ve Frontend"/>
 
-<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-02-dark.svg"><img src="assets/section-02-light.svg" width="100%" alt="Teknoloji Yığınım"></picture>
 
-<b>Backend & Veri</b>
-<br>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,redis,rabbitmq,pytorch,opencv,selenium,jest&perline=10" alt="Backend ve Veri"/>
-
-<br><br>
-
-<b>DevOps & Altyapı</b>
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,nginx,grafana,linux,git,vscode&perline=8" alt="DevOps ve Altyapı"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Highcharts-8087E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square"/>
-<img src="https://img.shields.io/badge/FullCalendar-2C3E50?style=flat-square"/>
-<img src="https://img.shields.io/badge/Uppy-1269CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/MinIO_(S3)-C72E49?style=flat-square&logo=minio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
-<img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/faster--whisper-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black"/>
-<img src="https://img.shields.io/badge/Loki_+_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ModSecurity_WAF-4A4A4A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
-<img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
-
-</div>
+<p align="center"><sub><b>DİLLER &amp; FRONTEND</b></sub><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Chtml%2Ccss%2Cbash%2Cpowershell%2Creact%2Cmaterialui%2Cstyledcomponents%2Cnodejs%2Cnpm&perline=12&theme=dark"><img src="https://skillicons.dev/icons?i=py%2Cjs%2Chtml%2Ccss%2Cbash%2Cpowershell%2Creact%2Cmaterialui%2Cstyledcomponents%2Cnodejs%2Cnpm&perline=12&theme=light" alt="Diller ve Frontend"></picture>
+</p>
+<p align="center"><sub><b>BACKEND &amp; VERİ</b></sub><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Crabbitmq%2Cpytorch%2Copencv%2Cselenium%2Cjest&perline=12&theme=dark"><img src="https://skillicons.dev/icons?i=django%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Crabbitmq%2Cpytorch%2Copencv%2Cselenium%2Cjest&perline=12&theme=light" alt="Backend ve Veri"></picture>
+</p>
+<p align="center"><sub><b>DEVOPS &amp; ALTYAPI</b></sub><br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cansible%2Cnginx%2Cgrafana%2Clinux%2Cgit%2Cvscode&perline=12&theme=dark"><img src="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cansible%2Cnginx%2Cgrafana%2Clinux%2Cgit%2Cvscode&perline=12&theme=light" alt="DevOps ve Altyapı"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ecosystem-dark.svg"><img src="assets/ecosystem-light.svg" width="100%" alt="Ekosistem: Ant Design, Highcharts, Recharts, FullCalendar, Uppy, Django REST, Celery, SQLAlchemy, JWT, MinIO, Pandas, Polars, Parquet, Ollama, faster-whisper, Claude Code, k3s, Loki, Alloy, ModSecurity, Portainer, LibreOffice"></picture>
+</p>
 
 <br>
 
-<h2>🚀 Portaliva'da Neler Yaptım, Neler Öğrendim?</h2>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg"><img src="assets/section-03-light.svg" width="100%" alt="Portaliva'da Neler Yaptım, Neler Öğrendim?"></picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📄 Beyanname Ayrıştırma</h3>
-KDV, Kurumlar ve Geçici Vergi beyannamelerini PDF'ten okuyup bölüm bölüm yapılandırılmış veriye çeviren ayrıştırıcılar; eski ve yeni formatları birlikte destekleyen şablon yapısı.
-<br><br>
-<b>✨ Öğrendim:</b> bozuk Türkçe karakter kodlamaları, sayfa geçişinde bölünen tablolar, veriyi bozmadan yeniden ayrıştırma.
-<br><br>
-<img src="https://img.shields.io/badge/pdfplumber-333?style=flat-square"/> <img src="https://img.shields.io/badge/PyMuPDF-333?style=flat-square"/> <img src="https://img.shields.io/badge/Django-333?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧾 e-Defter & e-Fatura</h3>
-RabbitMQ kuyruklarından beslenen, e-defter / e-fatura / e-irsaliye XML'lerini işleyen worker'lar; XSLT ile fatura görüntüleme; büyük veride Parquet + Polars ile hızlı analiz.
-<br><br>
-<b>✨ Öğrendim:</b> XXE korumalı güvenli XML ayrıştırma, kuyruk tabanlı mimaride hata toleransı.
-<br><br>
-<img src="https://img.shields.io/badge/RabbitMQ-333?style=flat-square"/> <img src="https://img.shields.io/badge/lxml-333?style=flat-square"/> <img src="https://img.shields.io/badge/Polars-333?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📊 Raporlama & Belge Üretimi</h3>
-GİB'e yüklenebilir Excel listeleri, Word rapor şablonları, PDF dönüşümü; Highcharts ve Recharts ile analiz panoları ve harita görselleştirmeleri.
-<br><br>
-<b>✨ Öğrendim:</b> resmî kurumların beklediği dosya türünü ve Türkçe sayı biçimini birebir korumak.
-<br><br>
-<img src="https://img.shields.io/badge/openpyxl-333?style=flat-square"/> <img src="https://img.shields.io/badge/docxtpl-333?style=flat-square"/> <img src="https://img.shields.io/badge/Highcharts-333?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🕵️ Denetim Modülleri</h3>
-Karşıt inceleme (yıl bazlı GİB eşikleri), riskli mükellef takibi, denetim tespitleri, mizan & bilanço denetimi, finansal oranlar, amortisman üreteci.
-<br><br>
-<b>✨ Öğrendim:</b> mevzuatı koda dökerken iş kurallarını alan uzmanlarıyla birlikte netleştirmek.
-<br><br>
-<img src="https://img.shields.io/badge/Django_REST-333?style=flat-square"/> <img src="https://img.shields.io/badge/React-333?style=flat-square"/> <img src="https://img.shields.io/badge/Ant_Design-333?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔐 Kimlik, Yetki & Güvenlik</h3>
-JWT + e-posta ile tek kullanımlık kod (OTP) girişi, rol ve menü bazlı yetki, AES-256-GCM ile şifreli veri, Nginx + ModSecurity WAF yapılandırması.
-<br><br>
-<b>✨ Öğrendim:</b> WAF yanlış pozitiflerini güvenliği zayıflatmadan çözmek.
-<br><br>
-<img src="https://img.shields.io/badge/JWT-333?style=flat-square"/> <img src="https://img.shields.io/badge/Nginx-333?style=flat-square"/> <img src="https://img.shields.io/badge/ModSecurity-333?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🗄️ Veri & Depolama</h3>
-Çok şemalı PostgreSQL referans verileri, MinIO (S3) depolama, tarayıcıdan doğrudan parçalı ve kaldığı yerden devam eden yükleme, kullanıcı bazlı kota sistemi.
-<br><br>
-<b>✨ Öğrendim:</b> büyük dosyaları sunucuyu yormadan yüklemek, tek kaynaktan referans verisi yönetmek.
-<br><br>
-<img src="https://img.shields.io/badge/PostgreSQL-333?style=flat-square"/> <img src="https://img.shields.io/badge/MinIO-333?style=flat-square"/> <img src="https://img.shields.io/badge/Uppy-333?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 Yerel Yapay Zekâ</h3>
-Şirket içinde çalışan AI asistan ve mevzuat araması, yerel ses → metin ile sesli komut, belgelerin sesli özeti.
-<br><br>
-<b>✨ Öğrendim:</b> hassas mali veriyi <b>dışarı göndermeden</b> modelleri çalıştırmak.
-<br><br>
-<img src="https://img.shields.io/badge/Ollama-333?style=flat-square"/> <img src="https://img.shields.io/badge/faster--whisper-333?style=flat-square"/> <img src="https://img.shields.io/badge/Celery-333?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📈 Gözlemlenebilirlik & DevOps</h3>
-Grafana + Loki + Alloy ile merkezi loglama ve panolar, yapısal JSON log, Docker ve k3s üzerinde servisler, Ansible ile on-premise kurulum sihirbazı.
-<br><br>
-<b>✨ Öğrendim:</b> "log yazmak" ile "log'dan soru sorabilmek" arasındaki fark.
-<br><br>
-<img src="https://img.shields.io/badge/Grafana-333?style=flat-square"/> <img src="https://img.shields.io/badge/k3s-333?style=flat-square"/> <img src="https://img.shields.io/badge/Ansible-333?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📅 Takvim & Planlama</h3>
-Denetim takvimi, takvim içinde ekip planlama kipi, sürükle-bırak görev atama, resmî vergi takviminin sisteme aktarılması.
-<br><br>
-<b>✨ Öğrendim:</b> yeni özelliği ayrı menü yerine mevcut akışın içine yerleştirmenin değeri.
-<br><br>
-<img src="https://img.shields.io/badge/FullCalendar-333?style=flat-square"/> <img src="https://img.shields.io/badge/Drag_&_Drop-333?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚙️ Arka Plan İşleri & Servisler</h3>
-Celery + Beat ile zamanlanmış görevler, FastAPI / Flask ile ayrı servisler, Redis önbellek, rol bazlı duyurular ve otomatik e-posta, Selenium ile tarayıcı otomasyonu.
-<br><br>
-<b>✨ Öğrendim:</b> uzun süren işleri kullanıcıyı bekletmeden arka plana almak.
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-333?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-333?style=flat-square"/> <img src="https://img.shields.io/badge/Selenium-333?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-dark.svg"><img src="assets/card-01-light.svg" width="49%" alt="Beyanname Ayrıştırma"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-02-dark.svg"><img src="assets/card-02-light.svg" width="49%" alt="e-Defter &amp; e-Fatura"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-03-dark.svg"><img src="assets/card-03-light.svg" width="49%" alt="Raporlama &amp; Belge Üretimi"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-04-dark.svg"><img src="assets/card-04-light.svg" width="49%" alt="Denetim Modülleri"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-05-dark.svg"><img src="assets/card-05-light.svg" width="49%" alt="Kimlik, Yetki &amp; Güvenlik"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-06-dark.svg"><img src="assets/card-06-light.svg" width="49%" alt="Veri &amp; Depolama"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-07-dark.svg"><img src="assets/card-07-light.svg" width="49%" alt="Yerel Yapay Zekâ"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-08-dark.svg"><img src="assets/card-08-light.svg" width="49%" alt="Gözlemlenebilirlik &amp; DevOps"></picture>
+</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-09-dark.svg"><img src="assets/card-09-light.svg" width="49%" alt="Takvim &amp; Planlama"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-10-dark.svg"><img src="assets/card-10-light.svg" width="49%" alt="Arka Plan İşleri &amp; Servisler"></picture>
+</p>
 
 <br>
 
-<h2>💼 Öne Çıkan Proje: Portaliva</h2>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-04-dark.svg"><img src="assets/section-04-light.svg" width="100%" alt="Öne Çıkan Proje: Portaliva"></picture>
 
-<table>
-<tr>
-<td align="center" width="33%">🧾<br><b>Veri Girişi</b><br><sub>E-fatura, e-defter ve beyannameleri otomatik içeri alma</sub></td>
-<td align="center" width="33%">🔍<br><b>Denetim</b><br><sub>KDV denetimi, karşıt inceleme, riskli mükellef takibi</sub></td>
-<td align="center" width="33%">📊<br><b>Analiz</b><br><sub>Mizan, bilanço, gelir tablosu, finansal oranlar</sub></td>
-</tr>
-<tr>
-<td align="center">📑<br><b>Raporlama</b><br><sub>GİB formatında listeler, Excel, Word ve PDF raporlar</sub></td>
-<td align="center">🤖<br><b>Yapay Zekâ</b><br><sub>Yerel AI asistan, mevzuat araması, sesli özet</sub></td>
-<td align="center">👥<br><b>Organizasyon</b><br><sub>Rol bazlı yetki, duyurular, takvim, ekip planlama</sub></td>
-</tr>
-</table>
-
-<p align="center"><sub>🔒 Kurumsal ve kapalı kaynak bir üründür</sub></p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg"><img src="assets/project-light.svg" width="100%" alt="Portaliva — Veri Girişi, Denetim, Analiz, Raporlama, Yapay Zekâ, Organizasyon"></picture>
+</p>
 
 <br>
 
-<h2>📊 GitHub İstatistiklerim</h2>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-05-dark.svg"><img src="assets/section-05-light.svg" width="100%" alt="GitHub İstatistiklerim"></picture>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=heysena8-netizen&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316" alt="GitHub Streak"/>
-
-<img width="100%" src="https://ghchart.rshah.org/f97316/heysena8-netizen" alt="Katkı Takvimi"/>
-
-</div>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=0F141B&border=262D38&stroke=262D38&ring=F97316&fire=F97316&currStreakNum=E6EDF3&currStreakLabel=F97316&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"><img src="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=F97316&fire=F97316&currStreakNum=1F2328&currStreakLabel=F97316&sideNums=1F2328&sideLabels=59636E&dates=59636E" width="60%" alt="GitHub Streak"></picture>
+</p>
 
 <br>
 
-<h2>🎯 2026 Hedeflerim</h2>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-06-dark.svg"><img src="assets/section-06-light.svg" width="100%" alt="2026 Hedeflerim"></picture>
 
-<table>
-<tr>
-<td>📈 Gözlemlenebilirlik altyapısını canlı ortamda tamamlamak</td>
-<td>🤖 Denetimde yapay zekâ destekli analizleri yaygınlaştırmak</td>
-</tr>
-<tr>
-<td>☁️ Kubernetes ve bulut mimarisinde uzmanlaşmak</td>
-<td>🧪 Test kapsamını artırmak</td>
-</tr>
-<tr>
-<td colspan="2" align="center">📝 FinTech / RegTech üzerine teknik yazılar paylaşmak</td>
-</tr>
-</table>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/goals-dark.svg"><img src="assets/goals-light.svg" width="100%" alt="2026 hedefleri"></picture>
+</p>
 
 <br>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-07-dark.svg"><img src="assets/section-07-light.svg" width="100%" alt="Birlikte Çalışalım"></picture>
 
-<p>💡 <b>Çalışma prensibim:</b> Önce kullanıcıyı anla, sonra kodu yaz.<br>Çalışan, test edilmiş ve sade olan en iyisidir.</p>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg"><img src="assets/quote-light.svg" width="100%" alt="Çalışma prensibim: Önce kullanıcıyı anla, sonra kodu yaz. Çalışan, test edilmiş ve sade olan en iyisidir."></picture>
+</p>
+
+<p align="center">Mali teknolojiler, veri odaklı uygulamalar veya kullanıcı dostu arayüzler üzerine konuşmak isterseniz ulaşın.</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:sena.yondemli@basedata.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" alt="E-posta"></picture></a>
+</p>
 
 <br>
 
-<b>🤝 Mali teknolojiler, veri odaklı uygulamalar veya kullanıcı dostu arayüzler üzerine konuşmak isterseniz ulaşın!</b>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Kod ile yapıldı · © 2026 Sena Yöndemli"></picture>
 
-<a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sena.yondemli@basedata.com.tr"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,100:c2410c&height=110&section=footer&text=%F0%9F%A7%A1%20Kod%20ile%20yap%C4%B1ld%C4%B1&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer"/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=heysena8-netizen&label=profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=F97316&style=flat-square" alt="Profil görüntülenme"></p>
