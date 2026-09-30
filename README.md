@@ -81,7 +81,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-05-dark.svg"><img src="assets/section-05-light.svg" width="100%" alt="GitHub İstatistiklerim"></picture>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=0F141B&border=262D38&stroke=262D38&ring=F97316&fire=F97316&currStreakNum=E6EDF3&currStreakLabel=F97316&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"><img src="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=F97316&fire=F97316&currStreakNum=1F2328&currStreakLabel=F97316&sideNums=1F2328&sideLabels=59636E&dates=59636E" width="60%" alt="GitHub Streak"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=0F141B&border=262D38&stroke=262D38&ring=818CF8&fire=F472B6&currStreakNum=E6EDF3&currStreakLabel=818CF8&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"><img src="https://streak-stats.demolab.com/?user=heysena8-netizen&locale=tr&disable_animations=true&hide_border=false&border_radius=16&background=FFFFFF&border=D8DEE4&stroke=D8DEE4&ring=4F46E5&fire=DB2777&currStreakNum=1F2328&currStreakLabel=4F46E5&sideNums=1F2328&sideLabels=59636E&dates=59636E" width="60%" alt="GitHub Streak"></picture>
 </p>
 
 <br>
@@ -111,4 +111,4 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Kod ile yapıldı · © 2026 Sena Yöndemli"></picture>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=heysena8-netizen&label=profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=F97316&style=flat-square" alt="Profil görüntülenme"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=heysena8-netizen&label=profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=6366F1&style=flat-square" alt="Profil görüntülenme"></p>
