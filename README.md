@@ -47,26 +47,98 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg"><img src="assets/section-03-light.svg" width="100%" alt="Neler Yaptım, Neler Öğrendim?"></picture>
 
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-dark.svg"><img src="assets/card-01-light.svg" width="49%" alt="Beyanname Ayrıştırma"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-02-dark.svg"><img src="assets/card-02-light.svg" width="49%" alt="e-Defter &amp; e-Fatura"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-03-dark.svg"><img src="assets/card-03-light.svg" width="49%" alt="Raporlama &amp; Belge Üretimi"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-04-dark.svg"><img src="assets/card-04-light.svg" width="49%" alt="Denetim Modülleri"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-05-dark.svg"><img src="assets/card-05-light.svg" width="49%" alt="Kimlik, Yetki &amp; Güvenlik"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-06-dark.svg"><img src="assets/card-06-light.svg" width="49%" alt="Veri &amp; Depolama"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-07-dark.svg"><img src="assets/card-07-light.svg" width="49%" alt="Yerel Yapay Zekâ"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-08-dark.svg"><img src="assets/card-08-light.svg" width="49%" alt="Gözlemlenebilirlik &amp; DevOps"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-09-dark.svg"><img src="assets/card-09-light.svg" width="49%" alt="Takvim &amp; Planlama"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-10-dark.svg"><img src="assets/card-10-light.svg" width="49%" alt="Arka Plan İşleri &amp; Servisler"></picture>
-</p>
+<p align="center"><sub>Ayrıntısını görmek istediğiniz başlığa tıklayın</sub></p>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-01-dark.svg"><img align="absmiddle" src="assets/row-01-light.svg" width="95%" alt="Beyanname Ayrıştırma — PDF beyannameden yapılandırılmış veriye"></picture></summary>
+<blockquote>
+<p>KDV, Kurumlar ve Geçici Vergi beyannamelerini PDF'ten okuyup bölüm bölüm veriye çeviren ayrıştırıcılar.</p>
+<p><b>Öğrendim:</b> Bozuk karakter kodlamaları ve sayfalara bölünen tablolarla başa çıkmak.</p>
+<p><code>pdfplumber</code> <code>PyMuPDF</code> <code>Django</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-02-dark.svg"><img align="absmiddle" src="assets/row-02-light.svg" width="95%" alt="e-Defter &amp; e-Fatura — Kuyruk tabanlı XML işleme"></picture></summary>
+<blockquote>
+<p>RabbitMQ kuyruklarından beslenen worker'larla e-defter ve e-fatura XML'lerini işlemek; büyük veride Polars ile hızlı analiz.</p>
+<p><b>Öğrendim:</b> Güvenli XML ayrıştırma ve kuyrukta hata toleransı.</p>
+<p><code>RabbitMQ</code> <code>lxml</code> <code>Polars</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-03-dark.svg"><img align="absmiddle" src="assets/row-03-light.svg" width="95%" alt="Raporlama &amp; Belge Üretimi — GİB'e hazır Excel, Word ve PDF"></picture></summary>
+<blockquote>
+<p>GİB'e yüklenebilir Excel listeleri, Word rapor şablonları ve analiz panoları.</p>
+<p><b>Öğrendim:</b> Resmî dosya biçimlerini ve Türkçe sayı biçimini birebir korumak.</p>
+<p><code>openpyxl</code> <code>docxtpl</code> <code>Highcharts</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-04-dark.svg"><img align="absmiddle" src="assets/row-04-light.svg" width="95%" alt="Denetim Modülleri — Mevzuatı kurallara dökmek"></picture></summary>
+<blockquote>
+<p>Karşıt inceleme, riskli mükellef takibi, mizan ve bilanço denetimi, finansal oranlar.</p>
+<p><b>Öğrendim:</b> İş kurallarını alan uzmanlarıyla birlikte netleştirmek.</p>
+<p><code>Django REST</code> <code>React</code> <code>Ant Design</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-05-dark.svg"><img align="absmiddle" src="assets/row-05-light.svg" width="95%" alt="Kimlik, Yetki &amp; Güvenlik — OTP giriş, rol bazlı yetki, WAF"></picture></summary>
+<blockquote>
+<p>E-posta ile tek kullanımlık kod (OTP) girişi, rol ve menü bazlı yetki, şifreli veri, WAF yapılandırması.</p>
+<p><b>Öğrendim:</b> Güvenliği zayıflatmadan WAF yanlış alarmlarını çözmek.</p>
+<p><code>JWT</code> <code>Nginx</code> <code>ModSecurity</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-06-dark.svg"><img align="absmiddle" src="assets/row-06-light.svg" width="95%" alt="Veri &amp; Depolama — PostgreSQL, S3 depolama, kota"></picture></summary>
+<blockquote>
+<p>Çok şemalı PostgreSQL, S3 uyumlu depolama, kaldığı yerden devam eden yükleme, kullanıcı bazlı kota.</p>
+<p><b>Öğrendim:</b> Büyük dosyaları sunucuyu yormadan yüklemek.</p>
+<p><code>PostgreSQL</code> <code>MinIO</code> <code>Uppy</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-07-dark.svg"><img align="absmiddle" src="assets/row-07-light.svg" width="95%" alt="Yerel Yapay Zekâ — Veriyi dışarı çıkarmayan yapay zekâ"></picture></summary>
+<blockquote>
+<p>Şirket içinde çalışan AI asistan, mevzuat araması, sesli komut ve belgelerin sesli özeti.</p>
+<p><b>Öğrendim:</b> Hassas veriyi dışarı göndermeden modelleri çalıştırmak.</p>
+<p><code>Ollama</code> <code>faster-whisper</code> <code>Celery</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-08-dark.svg"><img align="absmiddle" src="assets/row-08-light.svg" width="95%" alt="Gözlemlenebilirlik &amp; DevOps — Merkezi loglama, k3s, Ansible"></picture></summary>
+<blockquote>
+<p>Grafana + Loki ile merkezi loglama, Docker ve k3s üzerinde servisler, Ansible ile kurulum.</p>
+<p><b>Öğrendim:</b> Log yazmak ile log'dan soru sorabilmek arasındaki fark.</p>
+<p><code>Grafana</code> <code>k3s</code> <code>Ansible</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-09-dark.svg"><img align="absmiddle" src="assets/row-09-light.svg" width="95%" alt="Takvim &amp; Planlama — Denetim takvimi ve ekip planlama"></picture></summary>
+<blockquote>
+<p>Denetim takvimi, takvim içinde ekip planlama, sürükle-bırak görev atama.</p>
+<p><b>Öğrendim:</b> Yeni özelliği ayrı menü yerine mevcut akışın içine yerleştirmek.</p>
+<p><code>FullCalendar</code> <code>Drag &amp; Drop</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-10-dark.svg"><img align="absmiddle" src="assets/row-10-light.svg" width="95%" alt="Arka Plan İşleri &amp; Servisler — Celery, FastAPI, Redis"></picture></summary>
+<blockquote>
+<p>Celery ile zamanlanmış görevler, FastAPI / Flask servisleri, Redis önbellek, otomatik e-posta.</p>
+<p><b>Öğrendim:</b> Uzun süren işleri kullanıcıyı bekletmeden arka plana almak.</p>
+<p><code>FastAPI</code> <code>Redis</code> <code>Selenium</code></p>
+</blockquote>
+</details>
+
 
 <br>
 

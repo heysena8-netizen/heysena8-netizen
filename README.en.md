@@ -47,26 +47,98 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-en-dark.svg"><img src="assets/section-03-en-light.svg" width="100%" alt="What I Built &amp; Learned"></picture>
 
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-en-dark.svg"><img src="assets/card-01-en-light.svg" width="49%" alt="Tax Return Parsing"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-02-en-dark.svg"><img src="assets/card-02-en-light.svg" width="49%" alt="e-Ledger &amp; e-Invoice"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-03-en-dark.svg"><img src="assets/card-03-en-light.svg" width="49%" alt="Reporting &amp; Documents"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-04-en-dark.svg"><img src="assets/card-04-en-light.svg" width="49%" alt="Audit Modules"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-05-en-dark.svg"><img src="assets/card-05-en-light.svg" width="49%" alt="Identity, Access &amp; Security"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-06-en-dark.svg"><img src="assets/card-06-en-light.svg" width="49%" alt="Data &amp; Storage"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-07-en-dark.svg"><img src="assets/card-07-en-light.svg" width="49%" alt="Local AI"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-08-en-dark.svg"><img src="assets/card-08-en-light.svg" width="49%" alt="Observability &amp; DevOps"></picture>
-</p>
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-09-en-dark.svg"><img src="assets/card-09-en-light.svg" width="49%" alt="Calendar &amp; Planning"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-10-en-dark.svg"><img src="assets/card-10-en-light.svg" width="49%" alt="Background Jobs &amp; Services"></picture>
-</p>
+<p align="center"><sub>Click a topic to see the details</sub></p>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-01-en-dark.svg"><img align="absmiddle" src="assets/row-01-en-light.svg" width="95%" alt="Tax Return Parsing — From PDF tax returns to structured data"></picture></summary>
+<blockquote>
+<p>Parsers that read VAT, Corporate and Provisional Tax returns from PDF and turn them into structured data, section by section.</p>
+<p><b>What I learned:</b> Handling broken character encodings and tables split across pages.</p>
+<p><code>pdfplumber</code> <code>PyMuPDF</code> <code>Django</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-02-en-dark.svg"><img align="absmiddle" src="assets/row-02-en-light.svg" width="95%" alt="e-Ledger &amp; e-Invoice — Queue-based XML processing"></picture></summary>
+<blockquote>
+<p>Workers fed by RabbitMQ queues that process e-ledger and e-invoice XML; fast analytics on large data with Polars.</p>
+<p><b>What I learned:</b> Safe XML parsing and fault tolerance in queues.</p>
+<p><code>RabbitMQ</code> <code>lxml</code> <code>Polars</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-03-en-dark.svg"><img align="absmiddle" src="assets/row-03-en-light.svg" width="95%" alt="Reporting &amp; Documents — GİB-ready Excel, Word and PDF"></picture></summary>
+<blockquote>
+<p>Excel lists ready for upload to the Revenue Administration (GİB), Word report templates and dashboards.</p>
+<p><b>What I learned:</b> Preserving official file formats and Turkish number formatting exactly.</p>
+<p><code>openpyxl</code> <code>docxtpl</code> <code>Highcharts</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-04-en-dark.svg"><img align="absmiddle" src="assets/row-04-en-light.svg" width="95%" alt="Audit Modules — Turning regulations into rules"></picture></summary>
+<blockquote>
+<p>Counterparty cross-checks, risky taxpayer tracking, trial balance and balance sheet audit, financial ratios.</p>
+<p><b>What I learned:</b> Clarifying business rules together with domain experts.</p>
+<p><code>Django REST</code> <code>React</code> <code>Ant Design</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-05-en-dark.svg"><img align="absmiddle" src="assets/row-05-en-light.svg" width="95%" alt="Identity, Access &amp; Security — OTP login, role-based access, WAF"></picture></summary>
+<blockquote>
+<p>One-time email code (OTP) login, role- and menu-based permissions, encrypted data, WAF configuration.</p>
+<p><b>What I learned:</b> Resolving WAF false positives without weakening security.</p>
+<p><code>JWT</code> <code>Nginx</code> <code>ModSecurity</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-06-en-dark.svg"><img align="absmiddle" src="assets/row-06-en-light.svg" width="95%" alt="Data &amp; Storage — PostgreSQL, S3 storage, quotas"></picture></summary>
+<blockquote>
+<p>Multi-schema PostgreSQL, S3-compatible storage, resumable uploads, per-user storage quotas.</p>
+<p><b>What I learned:</b> Uploading large files without straining the server.</p>
+<p><code>PostgreSQL</code> <code>MinIO</code> <code>Uppy</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-07-en-dark.svg"><img align="absmiddle" src="assets/row-07-en-light.svg" width="95%" alt="Local AI — AI that keeps data in-house"></picture></summary>
+<blockquote>
+<p>An in-house AI assistant, regulation search, voice commands and spoken document summaries.</p>
+<p><b>What I learned:</b> Running models without sending sensitive data outside.</p>
+<p><code>Ollama</code> <code>faster-whisper</code> <code>Celery</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-08-en-dark.svg"><img align="absmiddle" src="assets/row-08-en-light.svg" width="95%" alt="Observability &amp; DevOps — Central logging, k3s, Ansible"></picture></summary>
+<blockquote>
+<p>Centralized logging with Grafana + Loki, services on Docker and k3s, installation with Ansible.</p>
+<p><b>What I learned:</b> The difference between writing logs and being able to ask questions of them.</p>
+<p><code>Grafana</code> <code>k3s</code> <code>Ansible</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-09-en-dark.svg"><img align="absmiddle" src="assets/row-09-en-light.svg" width="95%" alt="Calendar &amp; Planning — Audit calendar and team planning"></picture></summary>
+<blockquote>
+<p>Audit calendar, team planning inside the calendar, drag-and-drop task assignment.</p>
+<p><b>What I learned:</b> Placing a new feature inside the existing flow instead of a separate menu.</p>
+<p><code>FullCalendar</code> <code>Drag &amp; Drop</code></p>
+</blockquote>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/row-10-en-dark.svg"><img align="absmiddle" src="assets/row-10-en-light.svg" width="95%" alt="Background Jobs &amp; Services — Celery, FastAPI, Redis"></picture></summary>
+<blockquote>
+<p>Scheduled tasks with Celery, FastAPI / Flask services, Redis caching, automated email.</p>
+<p><b>What I learned:</b> Moving long-running work to the background without making users wait.</p>
+<p><code>FastAPI</code> <code>Redis</code> <code>Selenium</code></p>
+</blockquote>
+</details>
+
 
 <br>
 
