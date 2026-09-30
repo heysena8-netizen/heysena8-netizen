@@ -3,25 +3,26 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-en-on-dark.svg"><img src="assets/lang-en-on-light.svg" alt="English"></picture>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg"><img src="assets/header-en-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg"><img src="assets/header-en-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer &amp; Game Developer"></picture>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-en-dark.svg"><img src="assets/btn-linkedin-en-light.svg" alt="LinkedIn"></picture></a>&nbsp;
 <a href="mailto:sena.yondemli@basedata.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-en-dark.svg"><img src="assets/btn-mail-en-light.svg" alt="Email"></picture></a>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portaliva-en-dark.svg"><img src="assets/btn-portaliva-en-light.svg" alt="Portaliva"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-purr2play-en-dark.svg"><img src="assets/btn-purr2play-en-light.svg" alt="purr2play"></picture>
 </p>
 
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-01-en-dark.svg"><img src="assets/section-01-en-light.svg" width="100%" alt="About Me"></picture>
 
-<p>At <b>Basedata</b>, I build <b>Portaliva</b> end to end — a platform that digitalizes audit work for certified public accountants. I enjoy turning complex regulations and scattered data into <b>screens that make sense at a glance</b>.</p>
+<p>At <b>Basedata</b>, I build <b>Portaliva</b> end to end — a platform that digitalizes audit work for certified public accountants. I enjoy turning complex regulations and scattered data into <b>screens that make sense at a glance</b>. Alongside software, I make games under my own brand, <b>purr2play</b>.</p>
 
 <ul>
 <li>I turn tax returns, e-invoices and e-ledgers into <b>audit-ready data</b></li>
 <li>My priority: interfaces that never tire the user and information that is clear <b>at first glance</b></li>
 <li>I care deeply about security, authorization and traceability</li>
 <li>I build <b>local AI</b> solutions that keep sensitive data in-house</li>
+<li>I develop PC games under my brand <b>purr2play</b></li>
 <li>Turkish · English</li>
 </ul>
 
@@ -44,7 +45,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-en-dark.svg"><img src="assets/section-03-en-light.svg" width="100%" alt="What I Built &amp; Learned at Portaliva"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-en-dark.svg"><img src="assets/section-03-en-light.svg" width="100%" alt="What I Built &amp; Learned"></picture>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-en-dark.svg"><img src="assets/card-01-en-light.svg" width="49%" alt="Tax Return Parsing"></picture>
@@ -69,10 +70,10 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-04-en-dark.svg"><img src="assets/section-04-en-light.svg" width="100%" alt="Featured Project: Portaliva"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-04-en-dark.svg"><img src="assets/section-04-en-light.svg" width="100%" alt="purr2play · Game Development"></picture>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-en-dark.svg"><img src="assets/project-en-light.svg" width="100%" alt="Portaliva — Data Intake, Audit, Analytics, Reporting, AI, Organization"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/game-en-dark.svg"><img src="assets/game-en-light.svg" width="100%" alt="purr2play — my own game brand: PC games built with JavaScript and Python, in development"></picture>
 </p>
 
 <br>

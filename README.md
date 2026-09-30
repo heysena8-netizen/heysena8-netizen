@@ -3,25 +3,26 @@
 <a href="https://github.com/heysena8-netizen/heysena8-netizen/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-en-off-dark.svg"><img src="assets/lang-en-off-light.svg" alt="English"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer &amp; Game Developer"></picture>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sena-y%C3%B6ndemli-45a1653a7/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
 <a href="mailto:sena.yondemli@basedata.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" alt="E-posta"></picture></a>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portaliva-dark.svg"><img src="assets/btn-portaliva-light.svg" alt="Portaliva"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-purr2play-dark.svg"><img src="assets/btn-purr2play-light.svg" alt="purr2play"></picture>
 </p>
 
 <br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-01-dark.svg"><img src="assets/section-01-light.svg" width="100%" alt="Hakkımda"></picture>
 
-<p><b>Basedata</b>'da, yeminli mali müşavirlerin denetim işlerini dijitalleştiren <b>Portaliva</b> platformunu uçtan uca geliştiriyorum. Karmaşık mevzuatı ve dağınık veriyi <b>tek ekranda anlaşılır</b> hale getirmeyi seviyorum.</p>
+<p><b>Basedata</b>'da, yeminli mali müşavirlerin denetim işlerini dijitalleştiren <b>Portaliva</b> platformunu uçtan uca geliştiriyorum. Karmaşık mevzuatı ve dağınık veriyi <b>tek ekranda anlaşılır</b> hale getirmeyi seviyorum. Yazılımın yanında kendi markam <b>purr2play</b> ile oyun üretiyorum.</p>
 
 <ul>
 <li>Beyanname, e-fatura ve e-defterleri <b>denetime hazır veriye</b> dönüştürüyorum</li>
 <li>Arayüzün kullanıcıyı yormaması ve bilginin <b>tek bakışta</b> anlaşılması önceliğim</li>
 <li>Güvenlik, yetkilendirme ve izlenebilirliğe özellikle önem veriyorum</li>
 <li>Veriyi dışarı çıkarmadan çalışan <b>yerel yapay zekâ</b> çözümleri kuruyorum</li>
+<li><b>purr2play</b> markasıyla PC için oyunlar geliştiriyorum</li>
 <li>Türkçe · İngilizce</li>
 </ul>
 
@@ -44,7 +45,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg"><img src="assets/section-03-light.svg" width="100%" alt="Portaliva'da Neler Yaptım, Neler Öğrendim?"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-03-dark.svg"><img src="assets/section-03-light.svg" width="100%" alt="Neler Yaptım, Neler Öğrendim?"></picture>
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-dark.svg"><img src="assets/card-01-light.svg" width="49%" alt="Beyanname Ayrıştırma"></picture>
@@ -69,10 +70,10 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-04-dark.svg"><img src="assets/section-04-light.svg" width="100%" alt="Öne Çıkan Proje: Portaliva"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-04-dark.svg"><img src="assets/section-04-light.svg" width="100%" alt="purr2play · Oyun Geliştirme"></picture>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg"><img src="assets/project-light.svg" width="100%" alt="Portaliva — Veri Girişi, Denetim, Analiz, Raporlama, Yapay Zekâ, Organizasyon"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/game-dark.svg"><img src="assets/game-light.svg" width="100%" alt="purr2play — kendi oyun markam: JavaScript ve Python ile PC oyunları, geliştirme aşamasında"></picture>
 </p>
 
 <br>
