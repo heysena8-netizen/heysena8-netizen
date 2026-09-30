@@ -1,3 +1,8 @@
+<p align="right">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-tr-on-dark.svg"><img src="assets/lang-tr-on-light.svg" alt="Türkçe"></picture>
+<a href="https://github.com/heysena8-netizen/heysena8-netizen/blob/main/README.en.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-en-off-dark.svg"><img src="assets/lang-en-off-light.svg" alt="English"></picture></a>
+</p>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Sena Yöndemli — Full Stack Developer"></picture>
 
 <p align="center">
